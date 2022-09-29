@@ -1,7 +1,8 @@
 # tesseract-navigator
 Takes voice input from the user and uses it to either move the cursor to the position of a word or apply a command
 
-Some of these modules have not been updated to Python 3.10, so you'll need to use Python 3.9\n
+Some of these modules have not been updated to Python 3.10, so you'll need to use Python 3.9
+
 Required modules:
 numpy,
 speech_recognition,
